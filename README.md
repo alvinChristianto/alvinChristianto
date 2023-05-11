@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm alvinC, a full-time code watcher 👨‍💻 night shifter 🌃 and a papa👨.</div>  
+### <div align="center"> Hey 👋, I'm alvinC, a full-time code watcher 👨‍💻 night shifter 🌃 and a papa👨.</div>  
   
 - 🌍  I'm based in Yogyakarta, Indonesia
 - ✉️  You can contact me at [alvinchristianto93@gmail.com](mailto:alvinchristianto93@gmail.com)
