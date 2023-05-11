@@ -5,8 +5,11 @@
 
 ### <div align="center">I'm alvinC, a full-time code watcher 👨‍💻 night shifter 🌃 and a papa👨.</div>  
   
-
-- ⚡  Currently building web3⛓️  
+- 🌍  I'm based in Yogyakarta, Indonesia
+- ✉️  You can contact me at [alvinchristianto93@gmail.com](mailto:alvinchristianto93@gmail.com)
+- 🚀  I'm currently working on Project [Jogjatron](https://jogjatron.com/)
+- 🤝 I'm open to collaborating on Interesting Projects and Ideas
+- ⚡  Let's Build and Collaborate
   
 
 <br/>  
@@ -94,10 +97,17 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alvinChristianto&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinChristianto&hide_border=true&layout=compact" align="right" /></div>
+
+</td></tr></table>  
 
 <br/>  
-
 <br/> 
 
 ----
